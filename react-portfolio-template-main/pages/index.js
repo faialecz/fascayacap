@@ -136,15 +136,6 @@ export default function Home() {
                     {data.projects[0].title}
                   </h2>
                 </div>
-
-                <a
-                  href={data.projects[0].url}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="inline-flex items-center justify-center rounded-full border border-[#dfeaf7]/80 bg-[#dfeaf7]/30 px-5 py-3 text-sm font-medium text-[#f4f9ff] backdrop-blur-sm transition hover:bg-[#dfeaf7] hover:text-[#1d1d1f]"
-                >
-                  View live site
-                </a>
               </div>
             </div>
           </div>
