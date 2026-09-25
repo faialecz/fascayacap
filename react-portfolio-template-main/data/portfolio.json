@@ -1,1 +1,160 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+﻿{
+  "name": "Faith's Solace",
+  "resumeName": "Faith Aleczes S. Cayacap",
+  "headerTaglineOne": "Hello",
+  "headerTaglineTwo": "I'm Faith Cayacap",
+  "showCursor": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/faith-cayacap"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/faith-cayacap-0572f"
+    },
+    {
+      "id": "3",
+      "title": "Email",
+      "link": "mailto:faithaleczes.c@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "BeU: Be Your Best View, Be U",
+      "description": "Website",
+      "imageSrc": "/images/beu-home.png",
+      "url": "https://fmvmagaan.vercel.app/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Anti-Radiation & Blue Light Protection",
+      "description": "Features a multilayer filter that targets high-energy blue light (380nm–450nm) to reduce digital eye strain and fatigue from long hours on screens."
+    },
+    {
+      "id": "2",
+      "title": "Sun-Adaptive Photochromic Lenses",
+      "description": "UV-reactive lenses that transition from completely clear indoors to 80% tint opacity outdoors within 30–60 seconds of sun exposure."
+    },
+    {
+      "id": "3",
+      "title": "Meta Smart Eyewear",
+      "description": "Next-gen wearable tech featuring an integrated camera, audio, and hands-free connectivity housed in premium titanium and handcrafted acetate frames."
+    },
+    {
+      "id": "4",
+      "title": "Fashion Frames & Premium Materials",
+      "description": "A wide array of nonprescription frames crafted from aerospace-grade titanium, stainless steel, and TR-90 plastic built for everyday style and durability."
+    }
+  ],
+  "aboutpara": "BeU Eyewear bridges the gap between functional eye care and contemporary fashion. Built for screen-heavy, style-conscious users, BeU offers a collection ranging from anti-radiation and light-adaptive photochromic lenses to hands-free Meta smart glasses. Crafted from aerospace titanium, stainless steel, and handcrafted acetate, every frame provides lightweight comfort and everyday durability backed by a 7-day return guarantee and up to a 5-year warranty.",
+  "aboutMe": "Hi! I’m a Computer Science student bridging code with UI/UX design, creating interfaces and high-fidelity Figma prototypes. Beyond tech, I find solace in photography, film, music, and gaming.\n\nCurrently featuring BeU Eyewear — an optical brand combining anti-radiation, photochromic, and Meta smart lenses with daily style and functional protection. Welcome to my creative space!",
+  "resume": {
+    "tagline": "A Computer Science student focused on UI/UX design and digital product development, improving my design thinking and analytical skills through practical and creative work.",
+    "description": "I specialize in building High-Fidelity prototypes in Figma and using Canva for creative assets like logos and presentations. I am also proficient in managing project documents and organizing data using Microsoft Word and Excel, ensuring all technical requirements and workflows are clearly tracked.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "May 2026 - July 2026",
+        "type": "",
+        "position": "FerryEasy | Product Design & UX Case Study",
+        "bullets": [
+          "Created user-centered interface designs and prototype flows for a transport-focused digital experience, emphasizing clarity, usability, and accessibility."
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "May 2026 - July 2026",
+        "type": "",
+        "position": "MY Naga App | UX/UI Design Project",
+        "bullets": [
+          "Designed a concept app experience for local community support and digital engagement, translating requirements into polished interface screens and user flows."
+        ]
+      },
+      {
+        "id": "3",
+        "dates": "Aug 2025 - May 2026",
+        "type": "",
+        "position": "Software Engineer Subject Course - PLM | Project",
+        "bullets": [
+          "Designed comprehensive High-Fidelity prototypes in Figma, transitioning from initial wireframes to a fully functional frontend interface."
+        ]
+      },
+      {
+        "id": "4",
+        "dates": "Aug 2025 - Nov 2025",
+        "type": "",
+        "position": "Intelligent System Subject Course - PLM | Project",
+        "bullets": [
+          "Architected a Digital Guiding System from Prototype to High-Fidelity Figma design."
+        ]
+      },
+      {
+        "id": "5",
+        "dates": "Jan 2025 - May 2025",
+        "type": "",
+        "position": "AWS Cloud Club - Haribon | UI/UX Member",
+        "bullets": [
+          "Spearheaded a Mobile Desktop redesign of the club's web platform to ensure a more seamless and user-friendly experience.",
+          "Developed high-fidelity wireframes and promotional materials using Figma."
+        ]
+      },
+      {
+        "id": "4",
+        "dates": "Mar 17, 2025",
+        "type": "",
+        "position": "41st CS Week Web Design Competition",
+        "bullets": [
+          "Designed an original web interface centered on the theme “Visualizing the Reading Crisis,” focusing on data visualization and impactful storytelling using Figma."
+        ]
+      },
+      {
+        "id": "5",
+        "dates": "Jan 2022 - May 2022",
+        "type": "",
+        "position": "Human Computer Interaction Subject Course - PLM | Project",
+        "bullets": [
+          "Developed user personas to guide design requirements and translated wireframes into High-Fidelity interactive prototypes using Figma."
+        ]
+      }
+    ],
+    "education": {
+      "universityName": "Pamantasan ng Lungsod ng Maynila",
+      "universityDate": "Present",
+      "universityPara": "Bachelor of Science in Computer Science"
+    },
+    "languages": [
+      "Design & Creative Tools: Figma, Adobe Photoshop, Krita",
+      "UX Research & Design: Wireframing, User Persona Creation, Usability Testing, User Flows",
+      "Productivity & Documentation: Microsoft Excel, Microsoft Word, Google Workspace",
+      "Professional Qualities: Active Listening, Collaborative Problem-Solving, Strategic Insights",
+      "Technical Development: React, Node.js, JavaScript, Tailwind CSS, SQL"
+    ],
+    "frameworks": [
+      "Computer Science Society",
+      "Member - Sponsorship & Partnership Lead - Secretariat Lead - Executive Secretary",
+      "Organized sponsorship data and partner tracking using Microsoft Excel to ensure project transparency",
+      "Coordinated member communications and documented organizational workflows in Microsoft Word",
+      "AWS Cloud Club - Haribon",
+      "UI/UX and Documentation Member",
+      "There are projects for UI/UX design and social media content, and I assisted as a photographer and videographer for organizational events."
+    ],
+    "others": [
+      {
+        "title": "EasyBus PH - OJT Certificate of Completion",
+        "date": "July 2026"
+      },
+      {
+        "title": "Warframes: Where Design Meets Data - 41st Computer Science Week",
+        "date": "March 17, 2025"
+      }
+    ]
+  }
+}
